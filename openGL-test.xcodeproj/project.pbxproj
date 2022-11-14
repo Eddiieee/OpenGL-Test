@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B2B003AC2922EA5E00DDA918 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2B003AB2922EA5E00DDA918 /* main.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		B2B003A62922EA5E00DDA918 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,6 @@
 
 /* Begin PBXFileReference section */
 		B2B003A82922EA5E00DDA918 /* openGL-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "openGL-test"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B2B003AB2922EA5E00DDA918 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +52,6 @@
 		B2B003AA2922EA5E00DDA918 /* openGL-test */ = {
 			isa = PBXGroup;
 			children = (
-				B2B003AB2922EA5E00DDA918 /* main.cpp */,
 			);
 			path = "openGL-test";
 			sourceTree = "<group>";
@@ -119,7 +113,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2B003AC2922EA5E00DDA918 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
